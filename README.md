@@ -1,2 +1,2 @@
-# peerrtc.github.io
-For peer.js purposes
+# Main Page 📄
+This is the main web page of this project.
