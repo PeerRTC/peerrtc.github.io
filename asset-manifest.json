@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.a17b81a5.css",
-    "main.js": "./static/js/main.ba270bd4.js",
+    "main.js": "./static/js/main.4aec573b.js",
     "static/media/peer-rtc-setup.txt": "./static/media/peer-rtc-setup.ecda5d158acefcc35340.txt",
     "static/media/android-peer-rtc-setup.txt": "./static/media/android-peer-rtc-setup.91bb40ae1b134b4a3729.txt",
     "static/media/android-peer-rtc-desc.txt": "./static/media/android-peer-rtc-desc.c887adbb36cb3cfe85a7.txt",
@@ -13,10 +13,10 @@
     "static/media/android-sample-usage.txt": "./static/media/android-sample-usage.e01adf60c6aa82e68e8d.txt",
     "static/media/server-desc.txt": "./static/media/server-desc.674cd64f9257b18df6da.txt",
     "main.a17b81a5.css.map": "./static/css/main.a17b81a5.css.map",
-    "main.ba270bd4.js.map": "./static/js/main.ba270bd4.js.map"
+    "main.4aec573b.js.map": "./static/js/main.4aec573b.js.map"
   },
   "entrypoints": [
     "static/css/main.a17b81a5.css",
-    "static/js/main.ba270bd4.js"
+    "static/js/main.4aec573b.js"
   ]
 }
